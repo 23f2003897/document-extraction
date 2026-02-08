@@ -1,0 +1,13 @@
+[
+  {
+    "entity_id": "WTR-METER-001",
+    "location": "Zone-4, Sector-12, Delhi-110001",
+    "date": "2026-01-25",
+    "value": 45.0,
+    "unit": "KL",
+    "page_number": null,
+    "raw_text": "DELHI JAL BOARD Water Billing Summary Report Report Period: January 2026 Generated: 2026-01-31 Consumer Bill Details: Meter ID: WTR-METER-001 Consumer Name: Rajesh Kumar Location: Zone-4, Sector-12, Delhi-110001 Bill Date: 2026-01-25 Water Consumption: 45 KL Amount: Rs. 1350.00 Meter ID: WTR-METER-002 Consumer Name: Priya Sharma Location: Zone-2, Block-A, Delhi-110002 Bill Date: 2026-01-26 Water Consumption: 38 KL Amount: Rs. 1140.00 Meter ID: WTR-METER-003 Consumer Name: Anil Verma Location: Zo",
+    "part": null,
+    "chapter": null
+  }
+]
