@@ -1,11 +1,29 @@
-# Virtual environments
-venv/
-venv311/
-.venv/
-
-# Python cache
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# Environment files
-.env
+# Virtual environments
+venv311/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database + generated data
+data/*.db
+data/processed/
+data/raw_pdfs/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
